@@ -1,0 +1,1 @@
+CREATE SEQUENCE hr_test.employees_seq NOCACHE;

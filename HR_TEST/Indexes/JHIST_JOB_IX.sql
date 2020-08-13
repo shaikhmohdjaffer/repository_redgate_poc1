@@ -1,0 +1,1 @@
+CREATE INDEX hr_test.jhist_job_ix ON hr_test.job_history(job_id);

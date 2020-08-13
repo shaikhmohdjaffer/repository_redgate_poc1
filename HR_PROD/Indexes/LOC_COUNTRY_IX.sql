@@ -1,0 +1,1 @@
+CREATE INDEX hr_prod.loc_country_ix ON hr_prod.locations(country_id);
